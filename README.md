@@ -8,5 +8,5 @@
 
 **Jogadores**
 
-- ❌ Primeiro jogador 
-- ⭕ Segundo jogador
+- ❌ Darlene 1°
+- ⭕ Darly 2°
